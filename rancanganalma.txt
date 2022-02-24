@@ -1,6 +1,5 @@
 rancangan alma
 -konsisten 
 -membuat aplikasi refill
--membuat aplikasi web
 -bercita cita membuta produk sendiri
 -caleborasi dengan banyak artis
