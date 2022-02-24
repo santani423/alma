@@ -1,5 +1,14 @@
-rancangan alma
--konsisten 
--membuat aplikasi refill
--bercita cita membuta produk sendiri
--caleborasi dengan banyak artis
+#rancangan alma
+-browsure
+-compeni porofile
+-spanduk
+-visi misi
+
+
+
+#web
+-kenapa orang perlu memesan ke kita
+-foto produk
+-materi artikel
+
+
