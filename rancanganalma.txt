@@ -1,0 +1,4 @@
+rancangan alma
+-konsisten 
+-membuat aplikasi refill
+-membuat aplikasi web
